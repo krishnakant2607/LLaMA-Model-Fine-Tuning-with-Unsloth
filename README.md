@@ -1,7 +1,3 @@
-Certainly! Here's a more professional and polished version of the `README.md` suitable for a GitHub repository:
-
----
-
 # LLaMA Model Fine-Tuning with Unsloth
 
 This repository provides a streamlined and efficient pipeline for fine-tuning LLaMA-based language models using the [Unsloth](https://unsloth.ai) library. It is designed for instruction-tuning tasks with support for QLoRA, PEFT, and Hugging Face datasets.
@@ -53,11 +49,3 @@ This will initiate the fine-tuning process and save the model checkpoint and LoR
 
 - Fine-tuned model artifacts are saved to the `./model` directory
 - LoRA adapter weights are stored for efficient deployment or merging
-
-## License
-
-This project is released under the [MIT License](LICENSE).
-
----
-
-If you'd like, I can tailor this further to match your organization’s tone or add badges, Colab notebooks, or evaluation examples.
